@@ -1,0 +1,14 @@
+VPS服务器：https://www.vultr.com/?ref=8753714
+
+支持 Debian 9 或 Centos 7/8 或 Ubuntu 18 或更高版本
+
+
+OpenVPN搭建代码：
+wget https://git.io/vpn -O openvpn-install.sh && bash openvpn-install.sh
+
+
+
+
+FinalShell下载：https://wa6.lanzoui.com/ihjg2y3h14j
+FinalShell备用下载（含MAC版）：https://drive.google.com/drive/folders/1yUKRCn58kzDM6FRIadIWO8e5cDLz1mrx?usp=sharing
+
